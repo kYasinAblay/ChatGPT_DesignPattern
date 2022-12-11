@@ -1,0 +1,5 @@
+C:\Users\Kamil\source\repos\FlyWeightDesignPattern_ChatGPT\obj\Debug\net6.0\FlyWeightDesignPattern_ChatGPT.csproj.AssemblyReference.cache
+C:\Users\Kamil\source\repos\FlyWeightDesignPattern_ChatGPT\obj\Debug\net6.0\FlyWeightDesignPattern_ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\FlyWeightDesignPattern_ChatGPT\obj\Debug\net6.0\FlyWeightDesignPattern_ChatGPT.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\FlyWeightDesignPattern_ChatGPT\obj\Debug\net6.0\FlyWeightDesignPattern_ChatGPT.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\FlyWeightDesignPattern_ChatGPT\obj\Debug\net6.0\FlyWeightDesignPattern_ChatGPT.csproj.CoreCompileInputs.cache

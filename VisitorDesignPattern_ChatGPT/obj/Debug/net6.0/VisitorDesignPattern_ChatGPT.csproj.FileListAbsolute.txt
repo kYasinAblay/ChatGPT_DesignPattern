@@ -1,0 +1,15 @@
+C:\Users\Kamil\source\repos\VisitorDesignPattern_ChatGPT\bin\Debug\net6.0\VisitorDesignPattern_ChatGPT.exe
+C:\Users\Kamil\source\repos\VisitorDesignPattern_ChatGPT\bin\Debug\net6.0\VisitorDesignPattern_ChatGPT.deps.json
+C:\Users\Kamil\source\repos\VisitorDesignPattern_ChatGPT\bin\Debug\net6.0\VisitorDesignPattern_ChatGPT.runtimeconfig.json
+C:\Users\Kamil\source\repos\VisitorDesignPattern_ChatGPT\bin\Debug\net6.0\VisitorDesignPattern_ChatGPT.dll
+C:\Users\Kamil\source\repos\VisitorDesignPattern_ChatGPT\bin\Debug\net6.0\VisitorDesignPattern_ChatGPT.pdb
+C:\Users\Kamil\source\repos\VisitorDesignPattern_ChatGPT\obj\Debug\net6.0\VisitorDesignPattern_ChatGPT.csproj.AssemblyReference.cache
+C:\Users\Kamil\source\repos\VisitorDesignPattern_ChatGPT\obj\Debug\net6.0\VisitorDesignPattern_ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\VisitorDesignPattern_ChatGPT\obj\Debug\net6.0\VisitorDesignPattern_ChatGPT.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\VisitorDesignPattern_ChatGPT\obj\Debug\net6.0\VisitorDesignPattern_ChatGPT.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\VisitorDesignPattern_ChatGPT\obj\Debug\net6.0\VisitorDesignPattern_ChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\VisitorDesignPattern_ChatGPT\obj\Debug\net6.0\VisitorDesignPattern_ChatGPT.dll
+C:\Users\Kamil\source\repos\VisitorDesignPattern_ChatGPT\obj\Debug\net6.0\refint\VisitorDesignPattern_ChatGPT.dll
+C:\Users\Kamil\source\repos\VisitorDesignPattern_ChatGPT\obj\Debug\net6.0\VisitorDesignPattern_ChatGPT.pdb
+C:\Users\Kamil\source\repos\VisitorDesignPattern_ChatGPT\obj\Debug\net6.0\VisitorDesignPattern_ChatGPT.genruntimeconfig.cache
+C:\Users\Kamil\source\repos\VisitorDesignPattern_ChatGPT\obj\Debug\net6.0\ref\VisitorDesignPattern_ChatGPT.dll
