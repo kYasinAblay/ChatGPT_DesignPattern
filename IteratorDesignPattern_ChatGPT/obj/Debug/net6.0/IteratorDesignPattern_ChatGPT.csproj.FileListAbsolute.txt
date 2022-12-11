@@ -3,3 +3,8 @@ C:\Users\Kamil\source\repos\IteratorDesignPattern_ChatGPT\obj\Debug\net6.0\Itera
 C:\Users\Kamil\source\repos\IteratorDesignPattern_ChatGPT\obj\Debug\net6.0\IteratorDesignPattern_ChatGPT.AssemblyInfoInputs.cache
 C:\Users\Kamil\source\repos\IteratorDesignPattern_ChatGPT\obj\Debug\net6.0\IteratorDesignPattern_ChatGPT.AssemblyInfo.cs
 C:\Users\Kamil\source\repos\IteratorDesignPattern_ChatGPT\obj\Debug\net6.0\IteratorDesignPattern_ChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\ChatGPT_DesignPattern\IteratorDesignPattern_ChatGPT\obj\Debug\net6.0\IteratorDesignPattern_ChatGPT.csproj.AssemblyReference.cache
+C:\Users\Kamil\source\repos\ChatGPT_DesignPattern\IteratorDesignPattern_ChatGPT\obj\Debug\net6.0\IteratorDesignPattern_ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\ChatGPT_DesignPattern\IteratorDesignPattern_ChatGPT\obj\Debug\net6.0\IteratorDesignPattern_ChatGPT.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\ChatGPT_DesignPattern\IteratorDesignPattern_ChatGPT\obj\Debug\net6.0\IteratorDesignPattern_ChatGPT.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\ChatGPT_DesignPattern\IteratorDesignPattern_ChatGPT\obj\Debug\net6.0\IteratorDesignPattern_ChatGPT.csproj.CoreCompileInputs.cache

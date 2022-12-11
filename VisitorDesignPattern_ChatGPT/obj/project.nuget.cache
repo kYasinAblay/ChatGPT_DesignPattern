@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sN3ahK0lvCH3OM2uDSicW3izUNpfyK4Kq1ETyTFsEfBOCtyUYNHjP8o9CE1/k5pQ28Z5JYov8O5OT26Wn+hT3g==",
+  "dgSpecHash": "dnBvqpMC/kEH/bJlD9pj6uiVQt5q0OE6/i0SFLzEP+Ir5QD+z4X6Nt5bQuRL3Nz6/hsUrwnYNUiQDHWxB68tRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kamil\\source\\repos\\VisitorDesignPattern_ChatGPT\\VisitorDesignPattern_ChatGPT.csproj",
+  "projectFilePath": "C:\\Users\\Kamil\\source\\repos\\ChatGPT_DesignPattern\\VisitorDesignPattern_ChatGPT\\VisitorDesignPattern_ChatGPT.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

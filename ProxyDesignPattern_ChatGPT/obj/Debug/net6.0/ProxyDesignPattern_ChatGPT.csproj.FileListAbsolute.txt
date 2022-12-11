@@ -3,3 +3,8 @@ C:\Users\Kamil\source\repos\ProxyDesignPattern_ChatGPT\obj\Debug\net6.0\ProxyDes
 C:\Users\Kamil\source\repos\ProxyDesignPattern_ChatGPT\obj\Debug\net6.0\ProxyDesignPattern_ChatGPT.AssemblyInfoInputs.cache
 C:\Users\Kamil\source\repos\ProxyDesignPattern_ChatGPT\obj\Debug\net6.0\ProxyDesignPattern_ChatGPT.AssemblyInfo.cs
 C:\Users\Kamil\source\repos\ProxyDesignPattern_ChatGPT\obj\Debug\net6.0\ProxyDesignPattern_ChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\ChatGPT_DesignPattern\ProxyDesignPattern_ChatGPT\obj\Debug\net6.0\ProxyDesignPattern_ChatGPT.csproj.AssemblyReference.cache
+C:\Users\Kamil\source\repos\ChatGPT_DesignPattern\ProxyDesignPattern_ChatGPT\obj\Debug\net6.0\ProxyDesignPattern_ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\ChatGPT_DesignPattern\ProxyDesignPattern_ChatGPT\obj\Debug\net6.0\ProxyDesignPattern_ChatGPT.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\ChatGPT_DesignPattern\ProxyDesignPattern_ChatGPT\obj\Debug\net6.0\ProxyDesignPattern_ChatGPT.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\ChatGPT_DesignPattern\ProxyDesignPattern_ChatGPT\obj\Debug\net6.0\ProxyDesignPattern_ChatGPT.csproj.CoreCompileInputs.cache

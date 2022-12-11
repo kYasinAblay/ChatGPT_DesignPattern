@@ -1,0 +1,15 @@
+C:\Users\Kamil\source\repos\AdapterDesignPattern_ChatGPT\bin\Debug\net6.0\AdapterDesignPattern_ChatGPT.exe
+C:\Users\Kamil\source\repos\AdapterDesignPattern_ChatGPT\bin\Debug\net6.0\AdapterDesignPattern_ChatGPT.deps.json
+C:\Users\Kamil\source\repos\AdapterDesignPattern_ChatGPT\bin\Debug\net6.0\AdapterDesignPattern_ChatGPT.runtimeconfig.json
+C:\Users\Kamil\source\repos\AdapterDesignPattern_ChatGPT\bin\Debug\net6.0\AdapterDesignPattern_ChatGPT.dll
+C:\Users\Kamil\source\repos\AdapterDesignPattern_ChatGPT\bin\Debug\net6.0\AdapterDesignPattern_ChatGPT.pdb
+C:\Users\Kamil\source\repos\AdapterDesignPattern_ChatGPT\obj\Debug\net6.0\AdapterDesignPattern_ChatGPT.csproj.AssemblyReference.cache
+C:\Users\Kamil\source\repos\AdapterDesignPattern_ChatGPT\obj\Debug\net6.0\AdapterDesignPattern_ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\source\repos\AdapterDesignPattern_ChatGPT\obj\Debug\net6.0\AdapterDesignPattern_ChatGPT.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\AdapterDesignPattern_ChatGPT\obj\Debug\net6.0\AdapterDesignPattern_ChatGPT.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\AdapterDesignPattern_ChatGPT\obj\Debug\net6.0\AdapterDesignPattern_ChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\AdapterDesignPattern_ChatGPT\obj\Debug\net6.0\AdapterDesignPattern_ChatGPT.dll
+C:\Users\Kamil\source\repos\AdapterDesignPattern_ChatGPT\obj\Debug\net6.0\refint\AdapterDesignPattern_ChatGPT.dll
+C:\Users\Kamil\source\repos\AdapterDesignPattern_ChatGPT\obj\Debug\net6.0\AdapterDesignPattern_ChatGPT.pdb
+C:\Users\Kamil\source\repos\AdapterDesignPattern_ChatGPT\obj\Debug\net6.0\AdapterDesignPattern_ChatGPT.genruntimeconfig.cache
+C:\Users\Kamil\source\repos\AdapterDesignPattern_ChatGPT\obj\Debug\net6.0\ref\AdapterDesignPattern_ChatGPT.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kamil\\source\\repos\\IteratorDesignPattern_ChatGPT\\IteratorDesignPattern_ChatGPT.csproj": {}
+    "C:\\Users\\Kamil\\source\\repos\\ChatGPT_DesignPattern\\IteratorDesignPattern_ChatGPT\\IteratorDesignPattern_ChatGPT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kamil\\source\\repos\\IteratorDesignPattern_ChatGPT\\IteratorDesignPattern_ChatGPT.csproj": {
+    "C:\\Users\\Kamil\\source\\repos\\ChatGPT_DesignPattern\\IteratorDesignPattern_ChatGPT\\IteratorDesignPattern_ChatGPT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kamil\\source\\repos\\IteratorDesignPattern_ChatGPT\\IteratorDesignPattern_ChatGPT.csproj",
+        "projectUniqueName": "C:\\Users\\Kamil\\source\\repos\\ChatGPT_DesignPattern\\IteratorDesignPattern_ChatGPT\\IteratorDesignPattern_ChatGPT.csproj",
         "projectName": "IteratorDesignPattern_ChatGPT",
-        "projectPath": "C:\\Users\\Kamil\\source\\repos\\IteratorDesignPattern_ChatGPT\\IteratorDesignPattern_ChatGPT.csproj",
+        "projectPath": "C:\\Users\\Kamil\\source\\repos\\ChatGPT_DesignPattern\\IteratorDesignPattern_ChatGPT\\IteratorDesignPattern_ChatGPT.csproj",
         "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kamil\\source\\repos\\IteratorDesignPattern_ChatGPT\\obj\\",
+        "outputPath": "C:\\Users\\Kamil\\source\\repos\\ChatGPT_DesignPattern\\IteratorDesignPattern_ChatGPT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

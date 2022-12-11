@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5V0XO+hgQE4FOylbhI1auMMG/mXf3XqYC07yhn9tSWw7fOe39q0l8iuu9VVn+3oEFNNwyGgf1jpJf8iMNMy/vw==",
+  "dgSpecHash": "ybPDrR0ncQDwz1NEJj5akU1FduD/nq/FuL7BoQEg7b4vtpBL9UWWfNXrcJuKgYFCMnkbFOGOPcmeqf3JP94uCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kamil\\source\\repos\\IteratorDesignPattern_ChatGPT\\IteratorDesignPattern_ChatGPT.csproj",
+  "projectFilePath": "C:\\Users\\Kamil\\source\\repos\\ChatGPT_DesignPattern\\IteratorDesignPattern_ChatGPT\\IteratorDesignPattern_ChatGPT.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v289NVeLc4w8tn/8kMHbPDlsP/INO8ZwiY2ohd28wVmsTO3/Oao0H96MyMyJZY+LhbZEpH9ExzOrM14PB7IB9g==",
+  "dgSpecHash": "b3qL5iOlE2WfHVjXVfuuKd0y9J1mPL2yRI2GckRxaxoYQIP9XJJHiMSqt9BeiQsb+G9g3gL1Zu4QKxNdlBmv8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kamil\\source\\repos\\FlyWeightDesignPattern_ChatGPT\\FlyWeightDesignPattern_ChatGPT.csproj",
+  "projectFilePath": "C:\\Users\\Kamil\\source\\repos\\ChatGPT_DesignPattern\\FlyWeightDesignPattern_ChatGPT\\FlyWeightDesignPattern_ChatGPT.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

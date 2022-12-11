@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kamil\\source\\repos\\FlyWeightDesignPattern_ChatGPT\\FlyWeightDesignPattern_ChatGPT.csproj",
+      "projectUniqueName": "C:\\Users\\Kamil\\source\\repos\\ChatGPT_DesignPattern\\FlyWeightDesignPattern_ChatGPT\\FlyWeightDesignPattern_ChatGPT.csproj",
       "projectName": "FlyWeightDesignPattern_ChatGPT",
-      "projectPath": "C:\\Users\\Kamil\\source\\repos\\FlyWeightDesignPattern_ChatGPT\\FlyWeightDesignPattern_ChatGPT.csproj",
+      "projectPath": "C:\\Users\\Kamil\\source\\repos\\ChatGPT_DesignPattern\\FlyWeightDesignPattern_ChatGPT\\FlyWeightDesignPattern_ChatGPT.csproj",
       "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kamil\\source\\repos\\FlyWeightDesignPattern_ChatGPT\\obj\\",
+      "outputPath": "C:\\Users\\Kamil\\source\\repos\\ChatGPT_DesignPattern\\FlyWeightDesignPattern_ChatGPT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
